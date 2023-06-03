@@ -14,7 +14,7 @@ public class TodoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TodoApplication.class, args);
-		System.out.println("Go to http://localhost:8080/api/todo");
+		System.out.println("Go to http://localhost:8080/api/todos");
 	}
 
 }
